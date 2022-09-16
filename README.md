@@ -1,1 +1,0 @@
-# kadai-oop-1
